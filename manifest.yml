@@ -1,0 +1,4 @@
+---
+applications:
+- name: db-init
+  random-route: true
