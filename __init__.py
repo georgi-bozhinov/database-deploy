@@ -1,3 +1,4 @@
+import os
 import postgresql.driver as pg_driver
 
 CREDENTIALS = {
